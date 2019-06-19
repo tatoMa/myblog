@@ -11,10 +11,6 @@ export default new Vuex.Store({
       {
         text: 'Home',
         to: '/'
-      },
-      {
-        text: 'About',
-        href: '#about'
       }
     ]
   },
