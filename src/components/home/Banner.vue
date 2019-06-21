@@ -11,7 +11,8 @@
           <h1 class="display-3 font-weight-light">A Full Fludged Front-End Web Developer</h1>
           <div
             class="subheading text-uppercase pl-2 mb-4"
-          >Build incredible front-end applications, work well with teams and connect to backend APIs</div>
+            style="font-weight: bold"
+          >Loading time is money, Time to Interactive means convertion</div>
           <v-btn color="primary" depressed round>About Me</v-btn>
         </v-flex>
       </v-layout>

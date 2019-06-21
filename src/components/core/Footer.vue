@@ -3,7 +3,8 @@
     <v-container mx-auto>
       <v-layout wrap>
         <v-flex xs9>
-          <base-btn
+          <span>&copy; 2019 - Made with 💖 by James</span>
+          <!-- <base-btn
             v-for="(item, i) in items"
             :key="i"
             :href="item.href"
@@ -13,7 +14,7 @@
             target="_blank"
           >
             <v-icon v-text="item.icon"/>
-          </base-btn>
+          </base-btn>-->
         </v-flex>
         <v-spacer/>
         <base-btn class="mr-0" square title="Go to top" @click="$vuetify.goTo(0)">

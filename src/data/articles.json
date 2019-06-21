@@ -1,15 +1,15 @@
 [
   {
-    "title": "Moroccan Days",
-    "author": "John L",
-    "category": "Travel",
+    "title": "Build a simple Express back-end",
+    "author": "James Ma",
+    "category": "Front-end",
     "hero": "moroccandays.jpg",
     "url": "01.html"
   },
   {
     "title": "Swedish Fishing",
     "author": "Rachel L",
-    "category": "Leisure",
+    "category": "Back-end",
     "hero": "autumnclouds.jpg"
   },
   {
@@ -20,25 +20,25 @@
   {
     "title": "Paris in Spring",
     "author": "John L",
-    "category": "Travel",
+    "category": "Back-end",
     "hero": "christmas.jpg"
   },
   {
     "title": "Youthful Independence",
     "author": "Rachel L",
-    "category": "Political",
+    "category": "Front-end",
     "hero": "july4.jpg"
   },
   {
     "title": "Trial By Fire",
     "author": "Anthony R",
-    "category": "Cooking",
+    "category": "Front-end",
     "hero": "firepots.jpg"
   },
   {
     "title": "Water Ventures",
     "author": "Rachel L",
-    "category": "Leisure",
+    "category": "Front-end",
     "hero": "jellyfish.jpg"
   },
   {
